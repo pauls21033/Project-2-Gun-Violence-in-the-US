@@ -12,12 +12,12 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Extract(#extract)
 - [Transform](#transform)
 - [Load](#load)
-- [Technical Report](#technical report)
+- [Technical_Report](#technical report)
 - [Credits](#credits)
 
 
 
-## Extract, Transform, and Load
+
 
 ## Extract:  (cite sources)
 
@@ -29,13 +29,13 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 
 
-## Technical Report
+## Technical_Report:
 
 
 ## Credits
 
-The collaborators on this project are: Jessica Ermovick https://github.com/Jermov
-                                       Paul Serna https://github.com/pauls21033
+The collaborators on this project are: Jessica Ermovick https://github.com/Jermov,
+                                       Paul Serna https://github.com/pauls21033, and
                                        Andrew Fisher https://github.com/dfish9twenty
                                        
                                        
