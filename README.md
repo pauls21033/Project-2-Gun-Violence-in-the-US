@@ -1,15 +1,9 @@
-# Project-2-Gun-Violence-in-the-US
-
-# <Your-Project-Title>
+# States Gun Law Effectiveness on the Number of Mass Shootings
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+Our motivation for this project was to define differing levels of a States' gun laws and monitor their affects on the number of mass shootings.  We have built this project to see if there are any viable correlations between levels of gun policies and mass shootings.  This can help solve the problem of gun law effectiveness on the occurances of mass shootings.  We learned that...
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 ## Table of Contents (Optional)
 
