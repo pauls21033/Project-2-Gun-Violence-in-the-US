@@ -9,10 +9,10 @@ Our motivation for this project was to define differing levels of a States' gun 
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
-- [Extract(#extract)
+- [Extract](#extract)
 - [Transform](#transform)
 - [Load](#load)
-- [Technical_Report](#technical report)
+- [Report](#report)
 - [Credits](#credits)
 
 
