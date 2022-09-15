@@ -1,4 +1,4 @@
-#States' Gun Law Effectiveness on the Number of Mass Shootings
+# States' Gun Law Effectiveness on the Number of Mass Shootings
 
 ## Description
 
