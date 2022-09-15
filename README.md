@@ -1,4 +1,4 @@
-###States' Gun Law Effectiveness on the Number of Mass Shootings
+#States' Gun Law Effectiveness on the Number of Mass Shootings
 
 ## Description
 
@@ -9,16 +9,17 @@ Our motivation for this project was to define differing levels of a States' gun 
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
-- [Installation](#installation)
-- [Usage](#usage)
+- [Extract(#extract)
+- [Transform](#transform)
+- [Load](#load)
+- [Technical Report](#technical report)
 - [Credits](#credits)
-- [License](#license)
 
 
 
 ## Extract, Transform, and Load
 
-## Extract:
+## Extract:  (cite sources)
 
 
 ## Transform:
@@ -26,6 +27,9 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Load:
 
+
+
+## Technical Report
 
 
 ## Credits
@@ -39,20 +43,3 @@ The collaborators on this project are: Jessica Ermovick https://github.com/Jermo
 
 
 
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
