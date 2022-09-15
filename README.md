@@ -5,9 +5,7 @@
 Our motivation for this project was to define differing levels of a States' gun laws and monitor their affects on the number of mass shootings.  We have built this project to see if there are any viable correlations between levels of gun policies and mass shootings.  This can help solve the problem of gun law effectiveness on the occurances of mass shootings.  We learned that...
 
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Extract](#extract)
 - [Transform](#transform)
@@ -29,7 +27,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 
 
-## Technical_Report:
+## Report:
 
 
 ## Credits
