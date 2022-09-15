@@ -17,7 +17,15 @@ Our motivation for this project was to define differing levels of a States' gun 
 
 
 
-## Extract:  (cite sources)
+## Extract
+
+We used the following original data sources from: 
+                                      https://www.kaggle.com/datasets/gunviolencearchive/gun-violence-database![image](https://user-images.githubusercontent.com/105055707/190527339-2f625283-9556-4220-809a-f0643a0ad7f4.png)
+                                      
+                                      https://en.wikipedia.org/wiki/Gun_laws_in_the_United_States_by_state![image](https://user-images.githubusercontent.com/105055707/190527444-c1cdad50-e5f3-44b8-aefb-72861f92c67e.png)
+                                      
+                                      
+
 
 
 ## Transform:
