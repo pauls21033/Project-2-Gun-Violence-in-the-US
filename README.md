@@ -29,6 +29,10 @@ The data used from [Kaggle](https://www.kaggle.com/datasets/gunviolencearchive/g
 
 A secondary dataset was utilized from [Wikipedia](https://en.wikipedia.org/wiki/Gun_laws_in_the_United_States_by_state) to determine what laws each state enacted to comprise their gun policies. A [Jupyter Notebook](/cleaning_notebooks/web_scrape_gun.ipynb) was implemented to scrape wikipedia sites for the 50 states to determine their gun policies.
 
+We selected the Kaggle dataset because it was the only data we found that categorized by type of shooting that we could manipulate into a mass shooting variable
+
+The Wikipedia dataset because it had all the States gun policy information within a single web domain
+
 
 
 ## Transform
@@ -42,13 +46,15 @@ To transform the public data and use it in our analysis, we executed the followi
 - Removed the operator’s column, city, county column, and address column due to omitting information, and the data was not pertinent to the focus of this analysis
 - Created different data frames and queries to validate our hypothesis by grouping the data by state and getting the sum of the number of people killed and injured. In addition, we also grouped the data based on the number of gun policies. We sorted the data in descending order to see which state had the highest numbers and compared whether gun policies impacted mass shootings
 
-
+We transformed our datasets with the above information to be able to get the most succinct results possible
                                       
                        
 ## Load
 
 The final database we used to best compare a State's mass shootings and gun policies is a relational database stored in tables through PGAdmin <br>
 ![Data DDL Load](/resources/Load.PNG?raw=true "DDL for Load")
+
+We chose a relational database because our datasets had a common field of state that are related while refering to mass shootings and gun policies
 
 
 
