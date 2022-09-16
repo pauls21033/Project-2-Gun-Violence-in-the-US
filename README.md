@@ -32,7 +32,7 @@ A secondary dataset was utilized from [Wikipedia](https://en.wikipedia.org/wiki/
 
 ## Transform
 
-With the Wikipedia data we scraped the website to set parameters for how we were going to relate the differing levels of a State's gun policy.  We took the total number of gun policies available and divided them by the number of active gun policies a State had implemented during mass shooting event.  Based on these aparemters we defined each State as having Restrictive, Average or Relaxed gun policies
+With the Wikipedia data we scraped the website to set parameters for how we were going to relate the differing levels of a State's gun policy.  A "CASE"  statement was used to rank gun policy stringency; above 70% was defined as "Restrictive," less than 70% but greater than 40% was defined as "Average," and finally anything less than 40% was deined as "Relaxed."  The total number of gun policies available awas divided by the number of active gun policies a State had implemented during a mass shooting event
 
 
 To transform the public data and use it in our analysis, we executed the following:
@@ -46,8 +46,8 @@ To transform the public data and use it in our analysis, we executed the followi
                        
 ## Load
 
-The final database we used to best compare a State's mass shootings and gun policies is a relational database stored in tables through PGAdmin <br>
-![Alt text](/resources/Load.PNG?raw=true "Load DDL")
+The final database we used to best compare a State's mass shootings and gun policies is a relational database stored in tables through PGAdmin
+
 
 
 
