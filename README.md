@@ -6,6 +6,8 @@ Our motivation for this project was to define differing levels of a States' gun 
 
 We have concluded that a State's gun policies do not affect the number of mass shootings
 
+We used the following original data sources for this project: [https://www.kaggle.com/datasets/gunviolencearchive/gun-violence-database![image]](https://www.kaggle.com/datasets/gunviolencearchive/gun-violence-database) and [https://en.wikipedia.org/wiki/Gun_laws_in_the_United_States_by_sta ](https://en.wikipedia.org/wiki/Gun_laws_in_the_United_States_by_state)
+
 
 ## Table of Contents
 
@@ -19,8 +21,6 @@ We have concluded that a State's gun policies do not affect the number of mass s
 
 
 ## Extract
-
-We used the following original data sources for this project: [https://www.kaggle.com/datasets/gunviolencearchive/gun-violence-database![image]](https://www.kaggle.com/datasets/gunviolencearchive/gun-violence-database) and [https://en.wikipedia.org/wiki/Gun_laws_in_the_United_States_by_sta ](https://en.wikipedia.org/wiki/Gun_laws_in_the_United_States_by_state)
 
 The data used from Kaggle are all CSV files, while the data used from Wikipedia is a scraped website
 
