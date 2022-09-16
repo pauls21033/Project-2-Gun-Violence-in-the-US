@@ -1,4 +1,4 @@
-# State's Gun Policies Effectiveness on the Number of Mass Shootings 
+# A State's Gun Policies Effectiveness on it's Number of Mass Shootings 
 
 ## Description
 
