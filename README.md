@@ -29,7 +29,7 @@ The analyzed data defines a mass shooting as an gun event where at least two or 
 ## Transform
 
 With the Wikipedia data we scraped the website to set parameters for how we were going to relate the differing levels of a State's gun policy.  We took the total number of gun policies available and divided them by the number of active gun policies a State had implemented during mass shooting event.  Based on these aparemters we defined each State as having Restrictive, Average or Relaxed gun policies
-- 
+
 
 To transform the public data and use it in our analysis, we executed the following:
 - Leveraged Pandas functions in Jupyter Notebook to load all several CSV files
