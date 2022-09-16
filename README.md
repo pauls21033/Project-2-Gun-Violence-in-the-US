@@ -58,7 +58,7 @@ The final database we used to best compare a State's mass shootings and gun poli
 The question to answer was: Are the number of mass shootings an indicator for too lax of gun policies within the state? 
 The states with the highest number of mass shooting occurrances can be seen below: <br>
 ![Total Mass_Shooting](/resources/Total_Mass_Shooting.png?raw=true "Total Mass Shootings by State, Top 10")<br>
-We can see Illinois leads the way by a large margin, but as far as policies, we can see no real correlation between the number of mass shootings and the stringency of a state gun policy, see below:<br>
+We can see Illinois and California are in the lead, but as far as policies, we can see no real correlation between the number of mass shootings and the stringency of a state gun policy, see below:<br>
 ![Shootings Vs_Policy](/resources/Shootings_V_Policy.png?raw=true "Mass Shooting Count vs Policy Strictness")<br><br>
 ## Credits
 
