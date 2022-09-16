@@ -46,8 +46,8 @@ To transform the public data and use it in our analysis, we executed the followi
                        
 ## Load
 
-The final database we used to best compare a State's mass shootings and gun policies is a relational database stored in tables through PGAdmin
-
+The final database we used to best compare a State's mass shootings and gun policies is a relational database stored in tables through PGAdmin <br>
+![Alt text](/resources/Load.PNG?raw=true "Load DDL")
 
 
 
