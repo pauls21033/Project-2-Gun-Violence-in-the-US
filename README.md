@@ -1,4 +1,4 @@
-# States' Gun Law Effectiveness on the Number of Mass Shootings
+# States' Gun Law  Effectiveness on the Number of Mass Shootings
 
 ## Description
 
@@ -19,23 +19,24 @@ Our motivation for this project was to define differing levels of a States' gun 
 
 ## Extract
 
-We used the following original data sources from: 
-                                      https://www.kaggle.com/datasets/gunviolencearchive/gun-violence-database![image](https://user-images.githubusercontent.com/105055707/190527339-2f625283-9556-4220-809a-f0643a0ad7f4.png)
+We used the following original data sources for this project: https://www.kaggle.com/datasets/gunviolencearchive/gun-violence-database![image] and [https://en.wikipedia.org/wiki/Gun_laws_in_the_United_States_by_sta ](https://en.wikipedia.org/wiki/Gun_laws_in_the_United_States_by_state)
+
+The data from used Kaggle are all CSV files, using while the data from Wikipedia is a scraped website.
+
+## Transform
+
+
                                       
-                                      https://en.wikipedia.org/wiki/Gun_laws_in_the_United_States_by_state![image](https://user-images.githubusercontent.com/105055707/190527444-c1cdad50-e5f3-44b8-aefb-72861f92c67e.png)
-                                      
-                                      
+                       
+## Load
+
+The final database we used to best compare mass shooting and gun policies was a relational database stored in tables
 
 
 
-## Transform:
+## Report
 
-
-## Load:
-
-
-
-## Report:
+We have concluded that a State's gun laws and policies do not affect the number of mass shootings
 
 
 ## Credits
