@@ -26,7 +26,7 @@ We used the following original data sources for this project: [https://www.kaggl
 
 The data used from [Kaggle](https://www.kaggle.com/datasets/gunviolencearchive/gun-violence-database) are all CSV files, while the data used from Wikipedia is a scraped website
 
-A secondary dataset was utilized from [Wikipedia](https://en.wikipedia.org/wiki/Gun_laws_in_the_United_States_by_state) to determine what laws each state enacted to comprise their gun policies.
+A secondary dataset was utilized from [Wikipedia](https://en.wikipedia.org/wiki/Gun_laws_in_the_United_States_by_state) to determine what laws each state enacted to comprise their gun policies. A [Jupyter Notebook](/cleaning_notebooks/web_scrape_gun.ipynb) was implemented to scrape wikipedia sites for the 50 states to determine their gun policies.
 
 
 
@@ -46,7 +46,9 @@ To transform the public data and use it in our analysis, we executed the followi
                        
 ## Load
 
-The final database we used to best compare a State's mass shootings and gun policies is a relational database stored in tables through PGAdmin
+The final database we used to best compare a State's mass shootings and gun policies is a relational database stored in tables through PGAdmin <br>
+![Data DDL Load](/resources/Load.PNG?raw=true "DDL for Load")
+
 
 
 
