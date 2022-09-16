@@ -4,6 +4,8 @@
 
 Our motivation for this project was to define differing levels of a States' gun policies and monitor their affects on the number of mass shootings per State.  We have built this project to see if there are any viable correlations between levels of policy and mass shootings.  This can help solve the problem of gun policy effectiveness on the occurances of mass shootings.  
 
+The analyzed data defines a mass shooting as an gun event where at least two or more persons were either injured or killed
+
 We have concluded that a State's gun policies do not affect the number of mass shootings
 
 We used the following original data sources for this project: [https://www.kaggle.com/datasets/gunviolencearchive/gun-violence-database![image]](https://www.kaggle.com/datasets/gunviolencearchive/gun-violence-database) and [https://en.wikipedia.org/wiki/Gun_laws_in_the_United_States_by_sta ](https://en.wikipedia.org/wiki/Gun_laws_in_the_United_States_by_state)
@@ -24,7 +26,7 @@ We used the following original data sources for this project: [https://www.kaggl
 
 The data used from Kaggle are all CSV files, while the data used from Wikipedia is a scraped website
 
-The analyzed data defines a mass shooting as an gun event where at least two or more persons were either injured or killed
+
 
 ## Transform
 
@@ -42,7 +44,7 @@ To transform the public data and use it in our analysis, we executed the followi
                        
 ## Load
 
-The final database we used to best compare at State's mass shootings and gun policies is a relational database stored in tables through PGAdmin
+The final database we used to best compare a State's mass shootings and gun policies is a relational database stored in tables through PGAdmin
 
 
 
