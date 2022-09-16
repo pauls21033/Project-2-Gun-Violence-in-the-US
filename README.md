@@ -21,26 +21,32 @@ Our motivation for this project was to define differing levels of a States' gun 
 
 We used the following original data sources for this project: https://www.kaggle.com/datasets/gunviolencearchive/gun-violence-database![image] and [https://en.wikipedia.org/wiki/Gun_laws_in_the_United_States_by_sta ](https://en.wikipedia.org/wiki/Gun_laws_in_the_United_States_by_state)
 
-The data used from Kaggle are all CSV files, using while the data used Wikipedia is a scraped website
+The data used from Kaggle are all CSV files, using while the data used from Wikipedia is a scraped website
 
-The analyzed date defines a mass shooting as an gun event where at least two or more persons were injured or killed
+The analyzed data defines a mass shooting as an gun event where at least two or more persons were either injured or killed
 
 ## Transform
 
-With the Wikiepdia data we scraped the website to use the data to set parameters for how we were going to relate the differing levels of State's gun policy.  We took the total number of policies per the data and divided them by the number of active gun policies a State was using when a mass hooting happened.
+With the Wikipedia data we scraped the website to use the data to set parameters for how we were going to relate the differing levels of State's gun policy.  We took the total number of policies per the data and divided them by the number of active gun policies a State was using when a mass hooting happened.
+
+To transform the public data and use it in our analysis, we executed the following:
+- Leveraged Pandas functions in Jupyter Notebook to load all several CSV files.
+- Inspected the files and converted them into data frames
+- Removed the operator’s column, city, county column, and address column due to omitting information, and the data was not pertinent to the focus of this analysis
+- Created different data frames and queries to validate our hypothesis by grouping the data by state and getting the sum of the number of people killed and injured. In addition, we also grouped the data based on the number of gun policies. We sorted the data in descending order to see which state had the highest numbers and compared whether gun policies impacted mass shootings
 
 
                                       
                        
 ## Load
 
-The final database we used to best compare mass shooting and gun policies was a relational database stored in tables
+The final database we used to best compare at State's mass shootings and gun policies is a relational database stored in tables through PGAdmin
 
 
 
 ## Report
 
-We have concluded that a State's gun laws and policies do not affect the number of mass shootings
+We have concluded that a State's gun policies do not affect the number of mass shootings
 
 
 ## Credits
