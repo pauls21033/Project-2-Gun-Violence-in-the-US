@@ -24,7 +24,7 @@ We used the following original data sources for this project: [https://www.kaggl
 
 ## Extract
 
-The data used from Kaggle are all CSV files, while the data used from Wikipedia is a scraped website
+The data used from [Kaggle](https://www.kaggle.com/datasets/gunviolencearchive/gun-violence-database) are all CSV files, while the data used from Wikipedia is a scraped website
 
 
 
